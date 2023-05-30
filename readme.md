@@ -1,9 +1,9 @@
-# APEX Membership Card
-This app is a demo on how to create a membership card
+# APEX Dynamic Image Generation
+This app is a demo on how to create a Dynamic Image
 
 ## Installation ##
 Import *f119.sql* file to your workspace.
-run membership_card.sql to create the membership_card table
+run membership_card.sql to create the required table
 
 ## Usage ##
 1. Run the app and click on add data.
