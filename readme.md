@@ -11,6 +11,7 @@ run membership_card.sql to create the required table
 3. Click Download to download the membership card image
 
 
+```sql
     function generateCard(id) {
     var canvas = document.getElementById("canvas"),
         ctx = canvas.getContext("2d");
@@ -65,3 +66,5 @@ run membership_card.sql to create the required table
         link.click();
     }
 
+
+```
